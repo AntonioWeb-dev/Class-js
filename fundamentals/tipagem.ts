@@ -100,4 +100,6 @@ handleUser()
  * criar uma função de validate document, ela verifica o tipo de document só pode ser CPF ou RG
  * criar uma função de validação parao document, tamanho min 5 caracteres
  * e uma validação de pais apenas para BR
+ * 
+ * comando de execução npx ts-node fundamentals/tipagem.ts
  */
